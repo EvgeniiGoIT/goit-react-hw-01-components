@@ -1,0 +1,14 @@
+.transaction_history {
+  width: 400px;
+}
+
+.transaction_head {
+  background-color: cadetblue;
+  color: cornsilk;
+}
+
+.transaction_body {
+  background-color: rgb(197, 197, 199);
+  color: rgb(114, 114, 114);
+  text-align: center;
+}
